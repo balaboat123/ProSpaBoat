@@ -20,6 +20,7 @@ class CreateCashpackagesTable extends Migration
             $table->string('cash_point');
             $table->timestamps();
         });
+        //hello
     }
 
     /**
